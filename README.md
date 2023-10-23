@@ -1,4 +1,4 @@
-# client
+# An online bookstore web application with Vue.js, MySQL, and Java Backend.
 
 ## Project setup
 ```
